@@ -1,6 +1,6 @@
 #Below Section sets proxy details
 #export HTTP_PROX=http://example-proxy.domain.com:445
-#export HTTPS_PROXY=http://dmz1-ha-proxy.asahi.com:445
+#export HTTPS_PROXY=http://example-proxy.domain.com:445
 #export NO_PROXY=169.254.169.254
 
 #commands to get the users and terminal details
